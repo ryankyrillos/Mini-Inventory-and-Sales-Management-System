@@ -1,0 +1,2 @@
+# Mini-Inventory-and-Sales-Management-System
+ PHPMYADMIN+SQL+CODEIGNITER | SALES & EMPLOYEE MANAGEMENT  SYSTEM
